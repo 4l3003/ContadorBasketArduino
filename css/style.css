@@ -1,0 +1,21 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    color: green;
+}
+.boxlogin {
+    font-size: 16px;
+    border-radius: 4px;
+    box-shadow: 0px, 2px;
+    margin: 20px auto;
+    width: 350px;
+    height: 280px;
+    -webki-border-radius: 4px;
+    -moz-border-radius: 4px;
+}
+.titulo {
+    font-size: 30px;
+    color:white;
+}

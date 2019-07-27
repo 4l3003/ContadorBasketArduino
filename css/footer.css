@@ -1,0 +1,52 @@
+
+
+footer {
+	align-self: flex-end;
+	background-color: rgba(120,120,120, .5);
+	line-height: 3;
+	text-align: center;
+	width: 100%;
+	border-top: 2px solid #000;
+	position: absolute; top:-2px;
+	bottom: 0;
+}
+#copyright-out {
+	width: 100%;
+	background: rgb(37,37,37);
+	padding: 10px 0 14px 0;
+	color:#FFF;
+    padding:5px 0px;
+    text-align:center;
+    position:fixed;
+   left:0px;
+   bottom:0px;
+   height:40px;
+     
+}
+
+
+
+#copyright {
+	width: 939px;
+	margin: 0 auto;
+	font-size: 11px;
+	color: #CECECE;
+	text-align:center;
+}
+
+#copyright .col-right img {
+	vertical-align: middle;
+}
+
+#copyright .col-right span {
+	display: none;
+}
+
+#copyright a:link, #copyright a:visited{
+	color:#CECECE;
+	text-decoration:underline;
+}
+#copyright a:hover, #copyright a:active{
+	color:#FFFFFF;
+	text-decoration:none;
+}

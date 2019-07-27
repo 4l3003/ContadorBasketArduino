@@ -1,0 +1,32 @@
+html {
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a7cfdf+0,23538a+100;Blue+3d+%238 */
+background: rgb(167,207,223); /* Old browsers */
+background: -moz-linear-gradient(top, rgb(167,207,223) 0%, rgb(35,83,138) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgb(167,207,223) 0%,rgb(35,83,138) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgb(167,207,223) 0%,rgb(35,83,138) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', endColorstr='#23538a',GradientType=0 ); /* IE6-9 */
+}
+
+.boxlogin {
+	border-radius: 2px;
+	box-shadow: 0px 2px 10px #d6d6d6;
+	margin: 10px auto;
+	margin-top: 0px;
+	width: 28%;
+	height:48%;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+
+}
+.pepito {
+	background-color: #d6d6d6;
+}
+.noticias {
+	margin-top: 100px;
+	margin-left: 790px;
+}
+
